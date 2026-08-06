@@ -10,8 +10,6 @@
 - 🌱 **Currently Learning:** HTML5, CSS3, JavaScript (ES6+), and core Web Development.
 - 👯 **Looking to Collaborate:** Open-source projects, system frameworks, and exploring varied domain stacks.
 - 🧠 **Seeking Guidance:** Hardware-software integration with Arduino, complex algorithms, and data structures.
-- 💬 **Ask Me About:** Linux server administration, network storage setups, and system learning.
-
 ---
 
 **🛠️ Tech & Tools**
