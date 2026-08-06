@@ -14,8 +14,8 @@
 
 **🛠️ Tech & Tools**
 - **Frontend / Web:** HTML5 · CSS3 · JavaScript
-- **Hardware & Systems:** Arduino · Linux / Ubuntu Server
-- **Interests:** System Architecture · Algorithms · Web Engineering
+- **Hardware & Systems:** Linux / Ubuntu Server
+- **Interests:** System Architecture · Algorithm · Web Engineering
 
 ---
 
