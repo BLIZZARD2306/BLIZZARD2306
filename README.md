@@ -1,6 +1,6 @@
 <!-- Header: blue-hour aurora wave, matching lewismoreno.vercel.app -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1433,55:1b3a7a,100:2fd6a8&text=Lewis%20Moreno&fontColor=eaf2ff&fontSize=60&fontAlignY=36&animation=fadeIn&desc=AI%20Systems%20Engineer%20%C2%B7%20Multi-agent%20orchestration%20%26%20AI%20memory&descSize=17&descAlignY=58" alt="Lewis Moreno, AI Systems Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1433,55:1b3a7a,100:2fd6a8&text=Lewis%20Moreno&fontColor=eaf2ff&fontSize=60&fontAlignY=36&animation=fadeIn&desc=AI%20Systems%20Engineer%20%C2%B7%20Multi-agent%20orchestration%20and%20AI%20memory&descSize=17&descAlignY=58" alt="Lewis Moreno, AI Systems Engineer" width="100%" />
 </p>
 
 <p align="center">
