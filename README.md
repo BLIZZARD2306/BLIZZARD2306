@@ -1,20 +1,22 @@
-<!-- Header: ASCII name banner -->
-```
-      __    _______       ___________
-     / /   / ____/ |     / /  _/ ___/
-    / /   / __/  | | /| / // / \__ \
-   / /___/ /___  | |/ |/ // / ___/ /
-  /_____/_____/  |__/|__/___//____/
-
-            __  _______  ____  _______   ______
-           /  |/  / __ \/ __ \/ ____/ | / / __ \
-          / /|_/ / / / / /_/ / __/ /  |/ / / / /
-         / /  / / /_/ / _, _/ /___/ /|  / /_/ /
-        /_/  /_/\____/_/ |_/_____/_/ |_/\____/
-
-   ❄ AI Systems Engineer
-   ❄ multi-agent orchestration & AI memory
-```
+<!-- Header: ASCII name banner (lines padded to equal width so it centers cleanly) -->
+<div align="center">
+<pre>
+    __    _______       ___________
+   / /   / ____/ |     / /  _/ ___/
+  / /   / __/  | | /| / // / \__ \ 
+ / /___/ /___  | |/ |/ // / ___/ / 
+/_____/_____/  |__/|__/___//____/  
+&nbsp;
+    __  _______  ____  _______   ______ 
+   /  |/  / __ \/ __ \/ ____/ | / / __ \
+  / /|_/ / / / / /_/ / __/ /  |/ / / / /
+ / /  / / /_/ / _, _/ /___/ /|  / /_/ / 
+/_/  /_/\____/_/ |_/_____/_/ |_/\____/  
+&nbsp;
+❄ AI Systems Engineer
+❄ multi-agent orchestration &amp; AI memory
+&nbsp;</pre>
+</div>
 
 <p align="center">
   <a href="https://lewismoreno.vercel.app">
