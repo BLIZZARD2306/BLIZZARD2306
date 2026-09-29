@@ -1,7 +1,14 @@
-<!-- Header: blue-hour aurora wave, matching lewismoreno.vercel.app -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1433,55:1b3a7a,100:2fd6a8&text=Lewis%20Moreno&fontColor=eaf2ff&fontSize=60&fontAlignY=36&animation=fadeIn&desc=AI%20Systems%20Engineer%20%C2%B7%20Multi-agent%20orchestration%20and%20AI%20memory&descSize=17&descAlignY=58" alt="Lewis Moreno, AI Systems Engineer" width="100%" />
-</p>
+<!-- Header: ASCII name banner -->
+```
+██╗     ███████╗██╗    ██╗██╗███████╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗
+██║     ██╔════╝██║    ██║██║██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝████╗  ██║██╔═══██╗
+██║     █████╗  ██║ █╗ ██║██║███████╗    ██╔████╔██║██║   ██║██████╔╝█████╗  ██╔██╗ ██║██║   ██║
+██║     ██╔══╝  ██║███╗██║██║╚════██║    ██║╚██╔╝██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║
+███████╗███████╗╚███╔███╔╝██║███████║    ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
+╚══════╝╚══════╝ ╚══╝╚══╝ ╚═╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+
+  ❄  AI Systems Engineer · multi-agent orchestration & AI memory · lewismoreno.vercel.app
+```
 
 <p align="center">
   <a href="https://lewismoreno.vercel.app">
@@ -19,8 +26,6 @@
 
 ## ❄ About me
 
-<img align="right" width="300" src="https://skillicons.dev/icons?i=py,ts,react,nextjs,cloudflare,supabase,linux,obsidian,vscode&perline=3" alt="" />
-
 I'm **Michael Lewis D. Moreno**, Lewis for short: an **AI systems engineer** and third-year Computer Science student at **STI College Pasay-EDSA**.
 
 My main focus is **AI orchestration and memory**: getting multiple agents to plan and work together, and giving them long-term memory through RAG and MCP servers. Web development is my side hustle, so I also build POS systems for local shops, web apps, and games.
@@ -30,8 +35,6 @@ My main focus is **AI orchestration and memory**: getting multiple agents to pla
 - 🤝 **Open to:** AI and automation work: agents, MCP servers, Claude skills and workflows
 - 🎓 **Studying:** B.S. Computer Science, STI Pasay-EDSA (2024 – 2028)
 - 🌏 **Speaks:** English · Tagalog · 日本語 (beginner)
-
-<br clear="right" />
 
 ## 🤖 AI toolkit
 
@@ -50,67 +53,10 @@ My main focus is **AI orchestration and memory**: getting multiple agents to pla
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,html,css" alt="Python, TypeScript, JavaScript, Java, C#, HTML, CSS" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,flask,dotnet" alt="React, Next.js, Vite, Tailwind, Node.js, Flask, .NET" /> |
-| **Data & cloud** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,cloudflare,vercel,terraform" alt="PostgreSQL, SQLite, Supabase, Cloudflare, Vercel, Terraform" /> |
-| **Systems & tools** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,obsidian,androidstudio,robloxstudio" alt="Linux, Ubuntu, Git, GitHub, VS Code, Obsidian, Android Studio, Roblox Studio" /> |
-
-## 🚀 Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>❄ SNOW AI Factory</h3>
-      <img src="https://img.shields.io/badge/multi--agent%20orchestration-in%20progress-2fd6a8?style=flat-square&labelColor=0a1433" alt="" /><br /><br />
-      Describe what you want to build and SNOW turns it into a plan, hands each part to a specialized AI agent, runs them in order and brings their outputs and reviews together in one workspace.<br /><br />
-      <sub><b>Next.js · TypeScript · Cloudflare D1 · Drizzle</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Master-Memory RAG System</h3>
-      <img src="https://img.shields.io/badge/rag%20%C2%B7%20mcp%20server-in%20use-7fe3c4?style=flat-square&labelColor=0a1433" alt="" /><br /><br />
-      My personal knowledge store of preferences, past mistakes and course handouts, served over MCP. Retrieval narrows by category, then ranks by similarity; notes are append-only with versioning.<br /><br />
-      <sub><b>Python · SQLite · RAG · MCP</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 <a href="https://github.com/BLIZZARD2306/POS">POS</a></h3>
-      <img src="https://img.shields.io/badge/claude%20code-plugin-D97757?style=flat-square&labelColor=0a1433" alt="" /><br /><br />
-      Turns "build me a POS system" into a repeatable recipe: one prompt, a full point-of-sale app for sari-sari stores, cafés, salons and more.<br /><br />
-      <sub><b>Claude Code · React · TypeScript</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://whatsit-library.vercel.app">Whatsit Library</a></h3>
-      <img src="https://img.shields.io/badge/web-live-2fd6a8?style=flat-square&labelColor=0a1433" alt="" /><br /><br />
-      A visual dictionary of UI patterns for vibe coders: describe what you saw, learn what it's called, copy a prompt that builds it. <a href="https://github.com/BLIZZARD2306/whatsit-library">code ↗</a><br /><br />
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>More projects</b> (click to expand)</summary>
-<br />
-
-| Project | What it is | Built with |
-|---|---|---|
-| **[BuildByte Academy](https://buildbyteacademy.vercel.app/)** | Tech-education platform with a Flask LMS: admin, teacher and student portals, certificates and a gradebook. I built the front end and teach the AI automation track. | HTML · Tailwind · Flask |
-| **[Distributed Storage](https://github.com/BLIZZARD2306/CSA-Pre-finals-PT)** | 2-node GlusterFS storage that keeps working when one node fails. | Linux · GlusterFS |
-| **[Hardware Redundancy](https://github.com/BLIZZARD2306/CSA-Pre-finals-PT)** | A RAID 1 array on Ubuntu Server that keeps data available after a disk fails. | Ubuntu Server · RAID 1 |
-| **[OS Scheduling Algorithms](https://github.com/BLIZZARD2306/CSA-Pre-finals-PT)** | Disk-scheduling algorithms in Python: FCFS, SSTF, SCAN, C-SCAN and C-LOOK. | Python |
-| **CritiSize** | A SaaS platform that grades a website's UI/UX, with a community for design feedback. | Supabase · Vercel · Terraform |
-| **SUDOKING** | A glassmorphism sudoku in a single HTML file: five difficulties, hints, save/resume and stats. | HTML · CSS · JavaScript |
-| **[freeCodeCamp projects](https://github.com/BLIZZARD2306/Freecodecamp-Projects)** | Responsive web design course projects. | HTML · CSS |
-
-➡️ Games, cybersecurity labs and everything else: **[lewismoreno.vercel.app](https://lewismoreno.vercel.app/#projects)**
-
-</details>
-
-## 🏅 Certifications
-
-<a href="https://academy.claude.com/verify/0f82eeebedb76797b0eeb8eaa0b591e9"><img src="https://img.shields.io/badge/AI%20Fluency-Framework%20%26%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=191919" alt="AI Fluency: Framework & Foundations, Claude Academy" /></a>
-<br />
-<sub>Claude Academy (Anthropic) · issued Sep 2026 · click the badge to verify</sub>
+| **Languages** | <img height="32" src="https://skillicons.dev/icons?i=py,ts,js,java,cs,html,css" alt="Python, TypeScript, JavaScript, Java, C#, HTML, CSS" /> |
+| **Frameworks** | <img height="32" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,flask,dotnet" alt="React, Next.js, Vite, Tailwind, Node.js, Flask, .NET" /> |
+| **Data & cloud** | <img height="32" src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,cloudflare,vercel,terraform" alt="PostgreSQL, SQLite, Supabase, Cloudflare, Vercel, Terraform" /> |
+| **Systems & tools** | <img height="32" src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,obsidian,androidstudio,robloxstudio" alt="Linux, Ubuntu, Git, GitHub, VS Code, Obsidian, Android Studio, Roblox Studio" /> |
 
 ## 🐍 Contributions
 
