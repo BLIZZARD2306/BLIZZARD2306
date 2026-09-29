@@ -109,7 +109,8 @@ My main focus is **AI orchestration and memory**: getting multiple agents to pla
 ## 🏅 Certifications
 
 <a href="https://academy.claude.com/verify/0f82eeebedb76797b0eeb8eaa0b591e9"><img src="https://img.shields.io/badge/AI%20Fluency-Framework%20%26%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=191919" alt="AI Fluency: Framework & Foundations, Claude Academy" /></a>
-<sub>Claude Academy (Anthropic) · Sep 2026 · click to verify</sub>
+<br />
+<sub>Claude Academy (Anthropic) · issued Sep 2026 · click the badge to verify</sub>
 
 ## 🐍 Contributions
 
